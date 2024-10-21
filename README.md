@@ -20,4 +20,4 @@ Este proyecto es una aplicación de escritorio que permite a los usuarios gestio
 3. Ejecuta la aplicación:
 
    ```bash
-   python gestor_tareas_con_descripcion.py
+   python prueba.py
