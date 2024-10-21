@@ -47,6 +47,9 @@ Tarea con marcación de completada
 ![image](https://github.com/user-attachments/assets/d97a870f-1781-4e85-83de-ed51287e0b54)
 
 
+# Nota importante:
+No se le agregó importancia al requirementos.txt ya que este proyecto no requiere dependencias externas, sin embargo se agrego el archivo vacio para cumplir con los parámetros
+
 
 Gracias por ver, si tienes sugerencias las recibo totalmente.
 
