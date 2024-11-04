@@ -29,10 +29,12 @@ Pantalla de inicio
 
 
 Tarea ingresada
+
 ![image](https://github.com/user-attachments/assets/6b6af265-1c42-4bc2-b599-a63d953311b5)
 
 
-Descripcion de las tareas ingresadad
+Descripcion de las tareas ingresada
+
 ![image](https://github.com/user-attachments/assets/81929229-5fd6-4115-bfd3-27f230cfac82)
 
 
